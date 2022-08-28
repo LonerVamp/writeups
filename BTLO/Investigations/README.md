@@ -1,1 +1,1 @@
-Write-ups for BlueTeamLabs.online Challenges.
+Write-ups for BlueTeamLabs.online Investigations.
